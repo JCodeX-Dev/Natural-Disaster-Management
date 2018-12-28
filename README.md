@@ -20,7 +20,7 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<title>Natural Disaster Management System using IBM Bluemix</title>
+<!--title>Natural Disaster Management System using IBM Bluemix</title-->
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Jeremy Sam Joseph</o:Author>
